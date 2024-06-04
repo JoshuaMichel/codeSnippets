@@ -1,11 +1,12 @@
 # codeSnippets
-Script 1: [Description/Functionality]: [File Link]
+
 Description:
 This repository contains a collection of various scripts and code files that I've worked on. These scripts cover a range of topics and purposes, showcasing my experience and skills in software development.
 
 Contents:
-automate_insights.py: 
-    [Given a path to an excel document of data, performs a series of transformations specifically in excel and saves the file in the specified output Used Tkinter library to add a GUI user interface for user to change the default input and output paths]
+automate_insights.py:  
+    Given a path to an excel document of data, performs a series of transformations 
+    specifically in excel and saves the file in the specified output. 
 automate_insights_app.py: 
     Used Tkinter library to add a GUI user interface for user to 
     change the default input and output paths to automate_insights.py
