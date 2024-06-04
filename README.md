@@ -5,7 +5,7 @@ This repository contains a collection of various scripts and code files that I'v
   
 Contents:  
 automate_insights.py:  
-&nbsp; Given a path to an excel document of data, performs a series of transformations  
+&nbsp;   Given a path to an excel document of data, performs a series of transformations  
 &nbsp; specifically in excel and saves the file in the specified output.  
 automate_insights_app.py:  
 &nbsp;Used Tkinter library to add a GUI user interface for user to  
