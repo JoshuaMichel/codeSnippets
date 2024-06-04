@@ -1,9 +1,9 @@
 # codeSnippets  
   
-Description:  
+## Description:  
 This repository contains a collection of various scripts and code files that I've worked on. These scripts cover a range of topics and purposes, showcasing my experience and skills in software development.  
   
-Contents:  
+## Contents:  
 automate_insights.py:  
 &nbsp; - Given a path to an excel document of data, performs a series of transformations  
 &nbsp; specifically in excel and saves the file in the specified output.  
